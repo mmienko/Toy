@@ -9,3 +9,5 @@ Toy-8, is single 8-bit register with 16 8-bit registers with a tiny instruction 
 do arbitrary computation. Uncomment it's `@main` method (comment out the one in Toy) to see it work. For Toy-8, all
 the circuits down to the wires and On/Off power signals are simulated. This would be much harder for Toy, with it's
 larger instruction set.
+
+Official [booksite](https://introcs.cs.princeton.edu/java/62toy/) for course.
